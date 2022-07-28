@@ -1,4 +1,4 @@
-# Deep_Learning_based_Corn_disease_classification-End-to-End- and Architectural novelty using Customly designed Dilated and parallel convolutions CNN architecture
+# Deep_Learning_based_Corn_disease_classification-End-to-End- and Architectural novelty using Customly designed Dilated and parallel convolutions CNN architecture followed by performance analysis of different architectures for cassava plant leaf disease data along with Transfer Learning.
 The project aims at helping a farmer detect a whether their corn crop is diseased or not using mobile app. The model is created adhering to optimized usage of tensorflow,tensorboard and Image preprocessing techniques
 
 # **Steps Involved**
@@ -33,6 +33,36 @@ https://www.kaggle.com/datasets/emmarex/plantdisease
 
 
 ![image](https://user-images.githubusercontent.com/79403322/181452942-acfc07cd-9d53-468f-899b-5c7f426fc467.png)
+
+
+# **Literature Survey for Cassava plant disease**
+
+![image](https://user-images.githubusercontent.com/79403322/181458053-919fb1dd-4fea-444d-9b32-2a72742addea.png)
+
+# **Research Gap identified**
+
+![image](https://user-images.githubusercontent.com/79403322/181458166-a9f54112-bb82-41ec-ae62-6295653181f5.png)
+
+# **Performance analysis for different architectures**
+
+![image](https://user-images.githubusercontent.com/79403322/181458509-4362ac78-1c91-45cc-b45e-542cebb65976.png)
+
+
+
+# **Custom CNN architecture using DIlated Convolutions** 
+
+#### cassava has five class categories
+
+![image](https://user-images.githubusercontent.com/79403322/181457472-2fb6e53e-fbbe-4fe7-a574-bd9f0d813919.png)
+
+# **Custom CNN architecture using Parallel Convolutions**
+
+![image](https://user-images.githubusercontent.com/79403322/181457649-1f46b0de-f440-4965-aab8-325dbf11229e.png)
+
+
+
+
+
 
 
 
