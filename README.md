@@ -46,15 +46,19 @@ https://www.kaggle.com/datasets/emmarex/plantdisease
 
 # **Performance analysis for different architectures**
 
-**Cassava Whitefly - 2 class**
+# **Cassava Whitefly - 2 class**
 
-![image](https://user-images.githubusercontent.com/79403322/218814776-1453de9a-1102-46c0-bdca-aee94d933828.png)
-![image](https://user-images.githubusercontent.com/79403322/218815141-13492592-1d01-48f7-a92e-4df255ebec88.png)
-![image](https://user-images.githubusercontent.com/79403322/218815231-0c8ff450-0cfe-4533-b137-0a50551c522e.png)
-![image](https://user-images.githubusercontent.com/79403322/218815282-98f63f72-9650-4e64-a6be-697c585d38ec.png)
+![image](https://user-images.githubusercontent.com/79403322/218817273-545a1ca2-9acd-4d60-a879-cede77292124.png)
+![image](https://user-images.githubusercontent.com/79403322/218817341-1b05b013-7e40-4bb0-9877-0acf199c3af0.png)
+![image](https://user-images.githubusercontent.com/79403322/218817415-f2e09edf-9619-440b-bb1a-b5d4349624d9.png)
+![image](https://user-images.githubusercontent.com/79403322/218817472-1f46dabb-dd9c-4066-84bd-23537fba829c.png)
+![image](https://user-images.githubusercontent.com/79403322/218817536-f2693068-8a29-4dde-807c-3caab3c7ebc6.png)
+![image](https://user-images.githubusercontent.com/79403322/218817600-3bb09abc-1a5f-4ef6-9f7b-6bafe6f88c8d.png)
+![image](https://user-images.githubusercontent.com/79403322/218817661-c7bd1a01-060f-4a23-a64e-53b30acba1a8.png)
 
 
-** Cassava - 5 class**
+
+# **Cassava - 5 class**
 ![image](https://user-images.githubusercontent.com/79403322/218815907-bb0317d0-0172-4b21-9ae1-d3760215be10.png)
 
 ![image](https://user-images.githubusercontent.com/79403322/218815980-554758dc-b7c8-4860-bba9-a3c73fbb78a3.png)
