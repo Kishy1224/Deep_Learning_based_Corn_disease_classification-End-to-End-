@@ -1,4 +1,4 @@
-# Deep_Learning_based_Corn_disease_classification-End-to-End- and Architectural novelty using Customly designed Dilated and parallel convolutions CNN architecture followed by performance analysis of different architectures for cassava plant leaf disease data along with Transfer Learning and Ensemble Techniques.
+# Deep_Learning_based_Corn and_Cassava_disease_classification-End-to-End- and Architectural novelty using Customly designed Dilated and parallel convolutions CNN architecture followed by performance analysis of different architectures for cassava plant leaf disease data along with Transfer Learning and Ensemble Techniques.
 
 The project aims at helping a farmer detect a whether their corn crop is diseased or not using mobile app. The model is created adhering to optimized usage of tensorflow,tensorboard and Image preprocessing techniques
 
